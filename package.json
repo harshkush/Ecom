@@ -2,7 +2,7 @@
   "name": "ecom",
   "version": "1.0.0",
   "description": "ECommerce",
-  //"main": "server.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "Start": "node server.js",
